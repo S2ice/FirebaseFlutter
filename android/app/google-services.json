@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274683707203",
+    "project_id": "firebas-a395b",
+    "storage_bucket": "firebas-a395b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274683707203:android:f68729823db6d520f439f6",
+        "android_client_info": {
+          "package_name": "com.example.firebas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_W40Adh_5jddSnHln7U0kaNgBrVcHPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
